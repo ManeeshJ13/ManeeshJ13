@@ -11,6 +11,8 @@ I build solutions to  real-world problems
 - Building **full-stack applications with real-world practical uses**
 - Goal: Build impactful tech to solve practical problems
 
+---
+
 ## Tech Stack
 ### Programing
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
@@ -36,7 +38,7 @@ I build solutions to  real-world problems
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
-
+---
 
 ## Featured Projects
 
@@ -45,25 +47,29 @@ I build solutions to  real-world problems
 - Built using **React, Supabase, JavaScript**  
 - Includes task tracking, attendance, and reporting  
 - Supports admin and staff roles
---
+
+
 ###  Error Translator
 - Converts coding errors into simple explanations  
 - Built using **Python, FastAPI, JavaScript**  
 - Supports common errors across multiple languages  
 - Currently being developed as a **VS Code extension**
---
+
+
 ###  Verdura Website
 - Interactive company website  
 - Built using **React, Framer Motion, Lenis**  
 - Smooth scrolling and animations  
 - Responsive design for all devices   
---
+
+
 ###  NCC Webapp & VR Shooting Simulator
 - Quiz platform for NCC exam preparation  
 - VR shooting training prototype  
 - Built using **React, Unity, ESP32, MPU6050**  
 - Motion-based aiming using sensors
---  
+
+
 ###  Helmet Theft Detection System
 - Detects helmet removal or theft  
 - Uses real-time monitoring  
