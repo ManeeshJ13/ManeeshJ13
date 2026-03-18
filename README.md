@@ -74,7 +74,7 @@ I build solutions to  real-world problems
 ## Github Stats
 ![Maneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManeeshJ13&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeeshJ13&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshJ13&layout=compact&theme=radical)
 
 ---
 
