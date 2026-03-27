@@ -78,9 +78,11 @@ I build solutions to  real-world problems
 ---
 
 ## Github Stats
-![Maneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManeeshJ13&show_icons=true&theme=radical&cache_seconds=1800)
+## Github Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshJ13&layout=compact&theme=radical&cache_seconds=1800)
+![Maneesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManeeshJ13&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManeeshJ13&layout=compact&theme=radical)
 
 ---
 
