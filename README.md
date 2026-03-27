@@ -75,14 +75,6 @@ I build solutions to  real-world problems
 - Uses real-time monitoring  
 - Built for basic security applications  
 
----
-
-## Github Stats
-## Github Stats
-
-![Maneesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManeeshJ13&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManeeshJ13&layout=compact&theme=radical)
 
 ---
 
