@@ -87,4 +87,4 @@ I build solutions to  real-world problems
 ## Connect 
 - Email: maneeshjamesa@gmail.com
 - Linkedin: https://www.linkedin.com/in/maneesh-james-antony-906a24325
-- Portfolio : Work in Progress
+- Portfolio : https://maneeshjames-portfolio.vercel.app
